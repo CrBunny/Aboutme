@@ -52,5 +52,5 @@ li
 
 	margin-top: -4px;
 	margin-left: 5px;
-}li{list-style-type: none;float: none;}.container {padding: 0 15px;}@media (min-width: 575.98px){ .container {max-width: 540px;margin: auto;padding: 0; }}@media (min-width: 767.98px){.container {max-width: 720px;}}@media (min-width: 991.98px) {.container {max-width: 960px;}}@media (min-width: 900px){.container {max-width: 1450px;}}
+}li{list-style-type: none;float: none;}.grid {padding: 0 15px;}@media (min-width: 575.98px){ .grid {max-width: 540px;margin: auto;padding: 0; }}@media (min-width: 767.98px){.grid {max-width: 720px;}}@media (min-width: 991.98px) {.grid {max-width: 960px;}}@media (min-width: 900px){.grid {max-width: 1450px;}}
 
