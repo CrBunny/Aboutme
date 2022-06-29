@@ -1,4 +1,4 @@
-body{position: ;
+body{position:fixed ;
 background-color: black;
 background-repeat: no-repeat;
 background-size: cover;
@@ -65,11 +65,6 @@ ul {
 li {
 	 list-style-type: none;
   float: none;
-}
-@media (max-width: 1200px){
-	body{padding: calc(20px+(50 - 20)*((100vw - 320px) / (1200 - 320));}
-		ul{font-size:calc(20px+(30 - 20)*((100vw - 320px) / (1200 - 320)) ;
-		margin-bottom:calc(10px+(20 - 10)*((100vw - 320px) / (1200 - 320));}
 }
 
 
