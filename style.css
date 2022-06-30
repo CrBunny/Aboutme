@@ -44,7 +44,7 @@ margin-top: 2%;
 float: left;
 }
 li
-{color: white;margin-left: 40%;}ul {position: absolute;top: 50%;left: 50%;width: 900px;height: 900px;margin-top: -140px;margin-left: -800px;}#s {margin-top: -130px;margin-left: 50px;grid-area: s;}#k {margin-top: 20px;}
+{color: white;margin-left: 40%;}ul {position: absolute;top: 50%;left: 50%;width: 900px;height: 900px;margin-top: -140px;margin-left: -800px;}#s {margin-top: -130px;margin-left: 50px;grid-area: s;}#k {margin-top: 0px;}
 #z {
 
 	margin-top: -4px;
