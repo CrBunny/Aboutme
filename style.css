@@ -33,8 +33,9 @@ height: 650px;
 		
 	}
 		#u{
-		margin-left: 250px;
+		margin-left: 65px;
 		margin-top: -7px;
+		display: block;
 	}
 	#t{
 		margin-top: 180px;
