@@ -5,6 +5,13 @@ body{
 nav{
 	background-color: black;
 	height: 40px;
+		border: solid;
+	border-color: white;
+border-width: 1px;
+}
+#n{
+	margin-top: 10px;
+	display: block;
 }
 ul,li {margin: 0;
 		padding: 0;
@@ -17,18 +24,15 @@ li{
 }
 a {
 	color: white;
-    background-color: black;
-    display: block;
+    background-color: none;
     font: bold 15px sans-serif;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
-    border: solid;
-    border-color: white;
-    border-width: 1px;
 }
 #u{
 		margin-left: 250px;
+		margin-top: -7px;
 	}
 content{
 	background-color:black ;
