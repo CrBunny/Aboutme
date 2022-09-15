@@ -5,34 +5,8 @@ body{
 nav{
 	background-color: black;
 	height: 40px;
-
 }
-content{
-	background-color:black ;
-
-	float:right;
-	width: 75%;
-	height: 650px;
-}
-#sidebar{ background-color: black;
-float: left; 
-width: 25%;
-height: 650px;
-}
-#z {
-
-	margin-top: 10px;
-	margin-left: 10px;}
-	#l{
-		float: right;
-	}
-		#u{
-		margin-left: 250px;
-	}
-	#t{
-		margin-top: 190px;
-	}
-	ul,li {margin: 0;
+ul,li {margin: 0;
 		padding: 0;
 }
 ul{list-style: none;
@@ -53,13 +27,28 @@ a {
     border-color: white;
     border-width: 1px;
 }
+#u{
+		margin-left: 250px;
+	}
+content{
+	background-color:black ;
+
+	float:right;
+	width: 75%;
+	height: 650px;
+}
+#sidebar{ background-color: black;
+float: left; 
+width: 25%;
+height: 650px;
+}
 @media all and (max-width: 1200px){
-	div{
+	body{
 		width: 960px;
 	}
 }
 @media all and (max-width: 480px){
-	div{
+	body{
 		width: 320px;
 	}
 }
