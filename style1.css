@@ -31,8 +31,9 @@ a {
     text-decoration: none;
 }
 #u{
-		margin-left: 250px;
+		margin-left: 195px;
 		margin-top: -7px;
+		display: block;
 	}
 content{
 	background-color:black ;
